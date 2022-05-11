@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="convertir">Convertir</string>
+    <string name="ingrese_monto_en_pesos">Ingrese Monto en Pesos</string>
+    <string name="seleccione_una_moneda">Seleccione una Moneda</string>
+    <string name="resultado">Resultado</string>
+    <string name="real_brasil">REAL (BRASIL)</string>
+    <string name="euro">EURO</string>
+    <string name="dolar_usa">DOLAR (USA)</string>
+    <string name="sumar">SUMAR</string>
+</resources>
